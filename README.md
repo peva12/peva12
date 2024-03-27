@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peva12
+- 👀 I’m interested in front-end developtment
+- 🌱 I’m currently learning JavaScript
